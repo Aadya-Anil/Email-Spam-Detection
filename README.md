@@ -1,11 +1,6 @@
 # Email Spam Detection using NLP and Machine Learning
 This project demonstrates how Natural Language Processing (NLP) and Machine Learning can be used to detect spam messages. It uses TF-IDF vectorization and Logistic Regression to classify emails as spam or ham (not spam).
 
-Content:
-### Dataset
-### Preprocessing Steps
-## Model
-## Skills Demonstrated
 
 
 ## Dataset
